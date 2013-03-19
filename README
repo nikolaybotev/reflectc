@@ -1,0 +1,8 @@
+Tools to reflect the layout of C structs.
+
+TODO Recognize fixed-sized arrays.
+
+TODO Support the clang toolchain (Mac).
+
+TODO Support the Visual Studio toolchain (Windows).
+
